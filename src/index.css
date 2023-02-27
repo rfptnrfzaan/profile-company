@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mitra{
+    transform: translateX(-442px);
+}
+
+.crad{
+    transform: translateY(-80px);
+}
+
+.mit{
+    transform: translateY(-80px);
+}
+
+.foot{
+    transform: translateY(-50px);
+}
+
+.abt{
+    transform: translateY(-10px);
+}
+
+.head{
+    font-size: 32px;
+}
+
+.capt{
+    font-size: 12px;
+}
+
+.le{
+    left: 77rem;
+}
